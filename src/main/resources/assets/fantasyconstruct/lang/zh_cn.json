@@ -1,0 +1,10 @@
+{
+  "modifier.fantasyconstruct.fe_damage": "梦幻终焉伤害",
+  "modifier.fantasyconstruct.fe_damage.flavor": "蕴含「梦幻」之力的攻击，能有效削减敌人的生命值",
+  "modifier.fantasyconstruct.fade_power": "泡沫之力",
+  "modifier.fantasyconstruct.fade_power.flavor": "蕴含「泡沫」之力的攻击，能降低敌人的生命上限",
+  "modifier.fantasyconstruct.runic_shield": "梦幻终焉之盾",
+  "modifier.fantasyconstruct.runic_shield.flavor": "若所有护甲均被符文护盾强化，「梦幻终焉之盾」将守护你",
+  "modifier.fantasyconstruct.last_stand": "背水一战",
+  "modifier.fantasyconstruct.last_stand.flavor": "若所有护甲均被背水一战强化，你心中将升起「不屈的决意」"
+}
